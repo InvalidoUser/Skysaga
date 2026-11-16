@@ -1,4 +1,4 @@
-# SkySaga: Infinite Isles — local server
+# SkySaga: Infinite Isles local server
 
 Run the cancelled SkySaga client against a local server emulator. The emulator is based on [EDITzDev/SkySaga](https://github.com/EDITzDev/SkySaga).
 
